@@ -16,8 +16,16 @@
     </a>
 </p>
 
+<h1 align="center">
+
+[Documentation](https://bx-devs.gitbook.io/doc)
+
+
+ </h1>
+
+
 <p align="center">
-    <a href='https://discord.gg/**'><img alt="Discord Banner 2" src="https://www.image-heberg.fr/files/17140036842625545783.png"/></a>
+    <a href='https://discord.gg/GhAcTjNcu8'><img alt="Discord Banner 2" src="https://www.image-heberg.fr/files/17140036842625545783.png"/></a>
 </p>
 
 <p align="center">
@@ -31,4 +39,5 @@
     </a>
     <a href="https://github.com/BX-DEV-FIVEM?tab=followers"><img src="https://img.shields.io/github/followers/BX-DEV-FIVEM?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+
 
