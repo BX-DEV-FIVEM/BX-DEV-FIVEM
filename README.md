@@ -25,7 +25,7 @@
 
 
 <p align="center">
-    <a href='https://discord.gg/GhAcTjNcu8'><img alt="Discord Banner 2" src="https://www.image-heberg.fr/files/17140036842625545783.png"/></a>
+    <a href='https://discord.gg/Rnezhz8DVZ'><img alt="Discord Banner 2" src="https://www.image-heberg.fr/files/17140036842625545783.png"/></a>
 </p>
 
 <p align="center">
