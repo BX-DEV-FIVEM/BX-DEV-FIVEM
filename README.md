@@ -34,8 +34,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=BX-DEV-FIVEM">
+    <a href="https://github.com/BX-DEV-FIVEM">
+        <img src="https://komarev.com/ghpvc/?username=bx-dev-fivem">
     </a>
     <a href="https://github.com/BX-DEV-FIVEM?tab=followers"><img src="https://img.shields.io/github/followers/BX-DEV-FIVEM?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
